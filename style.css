@@ -23,7 +23,7 @@ p, li {
   margin: 0px 0px 8px 0px;
 }
 
-#site-title {
+/* #site-title {
   display: inline-block;
   position: absolute;
   font-size: 60px;
@@ -31,11 +31,11 @@ p, li {
   color: #004961;
   top: 150px;
 }
-
+*/
 #site-slogan {
   display: inline-block;
   position: relative;
-  font-size: 20px;
+  font-size: 24px;
   text-align: center;
   color: #002244;
   margin: 120px 12% 12% 12%;
