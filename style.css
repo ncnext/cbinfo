@@ -35,10 +35,10 @@ p, li {
 .site-slogan {
   display: inline-block;
   /*position: relative;*/
-  font-size: 30px;
+  font-size: 36px;
   text-align: center;
   color: #004961;
-  margin: 12px 25% 6px 25%;
+  margin: 12px 25% 0px 25%;
 }
 
 #cherie {
