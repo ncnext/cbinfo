@@ -20,7 +20,7 @@ h3 {
 }
 
 p, li {
-  margin: 0px 6% 8px 6%;
+  margin: 0px 0px 8px 0px;
 }
 
 .site-title {
@@ -31,10 +31,10 @@ p, li {
 }
 
 .site-slogan {
-  font-size: 30px;
+  font-size: 20px;
   text-align: center;
   color: #002244;
-  margin: 0px 12% 12% 12%;
+  margin: 120px 12% 12% 12%;
 }
 
 #cherie {
@@ -70,8 +70,6 @@ img {
 
 .headbg {
   display: inline-block;
-  position: absolute;
-  margin: 0% 25% 0% 25%;
   width: 362px;
   height: 138px;
   background-image: url("http://cdn.onlyinyourstate.com/wp-content/uploads/2015/05/Unknown1.jpg");
