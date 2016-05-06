@@ -1,6 +1,7 @@
 /* Styles go here */
 body {
   font-family: 'Slabo 27px', serif;
+  font-size: 16px;
   color: black;
 }
 
@@ -20,7 +21,7 @@ h3 {
 }
 
 p, li {
-  margin: 0px 0px 8px 0px;
+  margin: 0px 16px 8px 16px;
 }
 
 /* #site-title {
