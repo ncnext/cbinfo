@@ -38,7 +38,7 @@ p, li {
   font-size: 24px;
   text-align: center;
   color: #002244;
-  margin: 60px 12% 12% 12%;
+  margin: 40px 24px 12px 24px;
 }
 
 #cherie {
@@ -76,6 +76,7 @@ img {
   display: inline-block;
   width: 362px;
   height: 138px;
+  margin: 0% 25% 0% 25%;
   background-image: url("http://cdn.onlyinyourstate.com/wp-content/uploads/2015/05/Unknown1.jpg");
 }
 
