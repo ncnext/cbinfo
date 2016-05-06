@@ -23,14 +23,18 @@ p, li {
   margin: 0px 0px 8px 0px;
 }
 
-.site-title {
+#site-title {
+  display: inline-block;
+  position: absolute;
   font-size: 60px;
   text-align: center;
   color: #004961;
   top: 150px;
 }
 
-.site-slogan {
+#site-slogan {
+  display: inline-block;
+  position: relative;
   font-size: 20px;
   text-align: center;
   color: #002244;
