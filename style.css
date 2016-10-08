@@ -82,8 +82,9 @@ img {
 }
 
 .cbmeme {
-  display: inline-block;
   height: 250px;
+  width: 20%;
+  border: 2px;
 }
 
 #minimumwage {
