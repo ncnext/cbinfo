@@ -81,7 +81,6 @@ img {
   background-image: url("http://cdn.onlyinyourstate.com/wp-content/uploads/2015/05/Unknown1.jpg");
 }
 
-
 .cbmeme {
   display: inline-block;
 }
@@ -95,6 +94,18 @@ img {
   display: inline;
   position: relative;
   width: 25%;
+}
+
+.share-facebook, .share-twitter,
+.share-facebook:hover, .share-twitter:hover {
+  color: #fff;
+  font-weight: 700;
+}
+.share-facebook {
+  background-color: #4667A6;
+}
+.share-twitter {
+  background-color: #00A3D4;
 }
 
 /* 'indian red' #B0171F */
