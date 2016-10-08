@@ -1,4 +1,4 @@
-/* Styles go here */
+
 body {
   font-family: 'Slabo 27px', serif;
   font-size: 20px;
@@ -79,6 +79,16 @@ img {
   height: 138px;
   margin: 6% 25% 0% 25%;
   background-image: url("http://cdn.onlyinyourstate.com/wp-content/uploads/2015/05/Unknown1.jpg");
+}
+
+.cbmeme {
+  height: 200px;
+}
+
+#cbminimumwage {
+}
+
+#cbminimumwage {
 }
 
 /* 'indian red' #B0171F */
