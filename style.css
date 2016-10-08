@@ -86,11 +86,13 @@ img {
 }
 
 #minimumwage {
+  position: absolute;
   display: inline;
   width: 25%;
 }
 
 #cheatworkers {
+  position: relative;
   display: inline;
   width: 25%;
 }
