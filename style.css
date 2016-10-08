@@ -83,14 +83,14 @@ img {
 
 .cbmeme {
   display: inline-block;
-  height: 200px;
+  height: 400px;
 }
 
-#cbminimumwage {
+#minimumwage {
   display: inline;
 }
 
-#cbminimumwage {
+#cheatworkers {
   display: inline;
   position: relative;
 }
