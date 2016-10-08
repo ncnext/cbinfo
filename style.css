@@ -85,6 +85,14 @@ div .cbmeme {
   display: inline-block;
 }
 
+#minimumwage {
+  width: 100%;
+}
+
+#cheatworkers {
+  width: 100%;
+}
+
 /*
 #minimumwage {
   text-align: left;
