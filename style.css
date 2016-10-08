@@ -81,10 +81,9 @@ img {
   background-image: url("http://cdn.onlyinyourstate.com/wp-content/uploads/2015/05/Unknown1.jpg");
 }
 
+
 .cbmeme {
-  height: 250px;
-  width: 20%;
-  border: 2px black;
+  display: inline-block;
 }
 
 #minimumwage {
