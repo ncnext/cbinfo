@@ -34,21 +34,12 @@ p, li {
 }
 */
 
-.site-title {
-  display: inline-block;
-  position: absolute;
-  font-size: 60px;
-  text-align: center;
-  color: #004961;
-  top: 150px;
-}
-
 .site-slogan {
   display: inline-block;
   /*position: relative;*/
-  position: absolute;
-  top: 200px;
+  /*position: absolute;*/
   font-size: 36px;
+  width: 100%;
   text-align: center;
   /*color: #004961;*/
   color: #000033;
@@ -57,8 +48,12 @@ p, li {
 
 #cherie {
   display: inline-block;
-  position: absolute;
+  /*position: absolute;*/
   font-size: 40px;
+  font-weight: bold;
+  width: 100%;
+  text-align: center;
+  margin: 20px;
   /*margin: 20px 130px 0px 50px;*/
   z-index: 0;
 }
@@ -67,7 +62,6 @@ p, li {
   display: inline-block;
   position: relative;
   font-size: 20px;
-  font-weight: bold;
   /*margin: 0px 30px 0px 150px;*/
   z-index: 1;
 }
