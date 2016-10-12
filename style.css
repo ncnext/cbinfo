@@ -60,7 +60,7 @@ p, li {
 
 #berry {
   display: inline-block;
-  position: relative;
+  /*position: relative;*/
   font-size: 20px;
   /*margin: 0px 30px 0px 150px;*/
   z-index: 1;
