@@ -115,10 +115,12 @@ div .cbmeme {
 
 #minimumwage {
   width: 55%;
+  position: absolute;
 }
 
 #cheatworkers {
   width: 55%;
+  position: relative;
 }
 
 /*
