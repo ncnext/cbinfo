@@ -97,7 +97,7 @@ img {
   display: inline-block;
   width: 110%;
   height: 156px;
-  margin: -10px -10px 15px -10px;
+  margin: -10px -10px 0px -10px;
   z-index: 0;
 }
 
