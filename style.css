@@ -96,8 +96,8 @@ img {
   text-align: center;
   display: inline-block;
   width: 110%;
-  height: 128px;
-  margin: 0px;
+  height: 156px;
+  margin: -5px;
   z-index: 0;
 }
 
