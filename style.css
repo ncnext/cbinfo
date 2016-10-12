@@ -33,9 +33,21 @@ p, li {
   top: 150px;
 }
 */
+
+.site-title {
+  display: inline-block;
+  position: absolute;
+  font-size: 60px;
+  text-align: center;
+  color: #004961;
+  top: 150px;
+}
+
 .site-slogan {
   display: inline-block;
   /*position: relative;*/
+  position: absolute;
+  top: 200px;
   font-size: 36px;
   text-align: center;
   /*color: #004961;*/
