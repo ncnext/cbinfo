@@ -108,6 +108,7 @@ img {
 div .cbmeme {
   display: inline-block;
   text-align: center;
+  padding: 6px;
 }
 
 .container {
