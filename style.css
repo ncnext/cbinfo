@@ -49,11 +49,11 @@ p, li {
 #cherie {
   display: inline-block;
   /*position: absolute;*/
-  font-size: 40px;
+  font-size: 80px;
   font-weight: bold;
   /*width: 100%;
   text-align: center;*/
-  margin: 3% 3% 3% 3%;
+  margin: 10px;
   /*margin: 20px 130px 0px 50px;*/
   z-index: 0;
 }
