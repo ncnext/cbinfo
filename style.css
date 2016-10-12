@@ -13,6 +13,7 @@ h1 {
 h2 {
   font-size: 36px;
   color: #B0171F;
+  margin: 0px 0px 0px 9px;
 }
 
 h3 {
@@ -42,7 +43,7 @@ p, li {
   width: 90%;
   text-align: center;
   /*color: #004961;*/
-  color: #000033;
+  color: #FFFFEE;
   /*margin: 12px 25% 0px 25%;*/
 }
 
@@ -92,7 +93,7 @@ img {
 }*/
 
 .headbg {
-  background-color: #EEEEEE;
+  background-color: #004961;
   text-align: center;
   display: inline-block;
   width: 110%;
