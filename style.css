@@ -108,7 +108,6 @@ img {
 div .cbmeme {
   display: inline-block;
   text-align: center;
-  width: 75%;
 }
 
 .container {
@@ -117,7 +116,7 @@ div .cbmeme {
 
 #minimumwage {
   width: 49%;
-  position: absolute;
+  position: relative;
 }
 
 #cheatworkers {
