@@ -105,6 +105,7 @@ img {
 
 div .cbmeme {
   display: inline-block;
+  text-align: center;
 }
 
 .container {
@@ -112,11 +113,11 @@ div .cbmeme {
 }
 
 #minimumwage {
-  width: 50%;
+  width: 80%;
 }
 
 #cheatworkers {
-  width: 50%;
+  width: 80%;
 }
 
 /*
