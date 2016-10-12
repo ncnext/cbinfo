@@ -101,12 +101,14 @@ img {
   z-index: 0;
 }
 
-.container {
-  width: 90%;
-}
+
 
 div .cbmeme {
   display: inline-block;
+}
+
+.container {
+  width: 80%;
 }
 
 #minimumwage {
